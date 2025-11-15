@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+Osama+Lami's+Universe;Full+Stack+Developer+%7C+AI+%26+Automation;Clean+Code+.+Discipline+.+Ambition" />
 </p>
 
-<h1 align="center">✨ OsAmA 🇵🇸 LaMi! ✨</h1>
+<h1 align="center">✨ OsAmA 🇵🇸 LaM! ✨</h1>
 
 <p align="center">
   <b>Full Stack Developer</b> · <b>AI & Automation</b> · <b>Backend Engineering</b>
