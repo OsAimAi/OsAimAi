@@ -2,38 +2,31 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=OsAmA%20LaMi&fontSize=40&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlign=50&descAlignY=60&color=0:0f172a,100:1e293b&fontColor=00f7ff" width="100%" />
 </p>
 
-<!-- DARK BACKGROUND BOX -->
 <p align="center">
-  <img src="https://i.imgur.com/8bZQYvR.png" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+Osama+Lami's+Universe;Full+Stack+Developer+%7C+AI+%26+Automation;Clean+Code+.+Discipline+.+Ambition" />
 </p>
 
-<div align="center">
+<h1 align="center">✨ OsAmA 🇵🇸 LaMi! ✨</h1>
 
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+Osama+Lami's+Universe;Full+Stack+Developer+%7C+AI+%26+Automation;Clean+Code+.+Discipline+.+Ambition" />
-  </p>
+<p align="center">
+  <b>Full Stack Developer</b> · <b>AI & Automation</b> · <b>Backend Engineering</b>
+</p>
 
-  <h1>✨ OsAmA 🇵🇸 LaM! ✨</h1>
-
-  <p>
-    <b>Full Stack Developer</b> · <b>AI & Automation</b> · <b>Backend Engineering</b>
-  </p>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=OsAimAi&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
-  </p>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OsAimAi&label=Profile%20Views&color=00f7ff&style=for-the-badge" alt="profile views" />
+</p>
 
 ---
 
 ## 🧭 Who I Am
 
 - 💼 Full stack developer who loves clean and elegant systems  
-- 🤖 Passionate about AI, automation, and backend logic  
+- 🤖 Passionate about AI, automation, and strong backend logic  
 - 🧱 Turning ideas into real, structured, maintainable products  
-- 🧠 Obsessed with details, performance, and smooth UX  
-- 🌍 Mindset: "Think global, ship fast, improve continuously"
+- 🧠 Obsessed with details, performance, and smooth user experience  
+- 🌍 Mindset: *Think global, ship fast, improve continuously*  
+
+> *"Code like an engineer, think like a designer, move like a founder."*
 
 ---
 
@@ -43,12 +36,41 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+</p>
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
 </p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+</p>
+
+---
+
+## 📡 Tech Radar
+
+| Area            | Focus Level | Notes                                             |
+|-----------------|------------:|---------------------------------------------------|
+| Frontend        | 🔥🔥🔥       | React / Next.js · Modern, clean UI & UX          |
+| Backend & APIs  | 🔥🔥         | REST APIs · Auth · Clear and scalable logic      |
+| Databases       | 🔥🔥         | MongoDB / SQL · Solid schema & relationships     |
+| DevOps & Tools  | 🔥           | Git · GitHub · Docker · Basic CI/CD pipelines    |
+| AI & Automation | 🔥🔥         | Integrating AI & automation into real products   |
 
 ---
 
@@ -86,7 +108,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Osama%20Lami-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:Osama.lami.1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Osama.lami.1%40gmail.com-D14836?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Osama.lami.1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
