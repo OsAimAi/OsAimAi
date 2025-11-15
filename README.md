@@ -1,31 +1,38 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Osama%20Lami&fontSize=40&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlign=50&descAlignY=60&color=0:0f172a,100:1e293b&fontColor=00f7ff" width="100%" />
+<div align="center">
+  <div style="background:#020617;padding:24px 12px;border-radius:18px;border:1px solid #1f2937;max-width:1000px;margin:0 auto;box-shadow:0 0 25px rgba(15,23,42,0.8);">
 
-<!-- PROFILE HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+Osama+Lami's+Universe;Full+Stack+Developer+%7C+AI+%26+Automation;Clean+Code+.+Discipline+.+Ambition" />
-</p>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=OsAmA%20LaMi&fontSize=40&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlign=50&descAlignY=60&color=0:0f172a,100:1e293b&fontColor=00f7ff" width="100%" />
 
-<h1 align="center">✨ OsAmA • LaM! ✨</h1>
+    <!-- PROFILE HEADER -->
+    <p align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+Osama+Lami's+Universe;Full+Stack+Developer+%7C+AI+%26+Automation;Clean+Code+.+Discipline+.+Ambition" />
+    </p>
 
-<p align="center">
-  <b>Full Stack Developer</b> · <b>AI & Automation Enthusiast</b> · <b>Web & Backend Engineering</b>
-</p>
+    <h1 align="center" style="color:#e5e7eb;">✨ OsAmA 🇵🇸 LaM! ✨</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OsAimAi&label=Profile%20Views&color=00f7ff&style=for-the-badge" alt="profile views" />
-</p>
+    <p align="center" style="color:#9ca3af;">
+      <b>Full Stack Developer</b> · <b>AI & Automation Enthusiast</b> · <b>Web & Backend Engineering</b>
+    </p>
+
+    <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=OsAimAi&label=Profile%20Views&color=00f7ff&style=for-the-badge" alt="profile views" />
+    </p>
 
 ---
 
 ## 🧭 Who I Am
 
+<p style="color:#d1d5db;">
 - 💼 Full stack developer who loves building clean, reliable systems  
 - 🤖 Passionate about AI, automation, and strong backend logic  
 - 🧱 I enjoy turning ideas into real, structured, maintainable products  
 - 🧠 Obsessed with details, performance, and smooth user experience  
-- 🌍 Mindset: *Think global, ship fast, improve continuously*
+- 🌍 Mindset: <i>Think global, ship fast, improve continuously</i>  
+</p>
 
-> _"Code like an engineer, think like a designer, move like a founder."_
+<p style="color:#9ca3af;">
+  <i>"Code like an engineer, think like a designer, move like a founder."</i>
+</p>
 
 ---
 
@@ -67,13 +74,38 @@
 
 ## 📡 Tech Radar
 
-| Area            | Focus Level | Notes                                             |
-|-----------------|------------:|---------------------------------------------------|
-| Frontend        | 🔥🔥🔥       | React / Next.js • Modern, clean UI & UX          |
-| Backend & APIs  | 🔥🔥         | REST APIs • Auth • Clear and scalable logic      |
-| Databases       | 🔥🔥         | MongoDB / SQL • Solid schema & relationships     |
-| DevOps & Tools  | 🔥           | Git • GitHub • Docker • Basic CI/CD pipelines    |
-| AI & Automation | 🔥🔥         | Integrating AI services & automation into apps   |
+<table align="center">
+  <tr>
+    <th style="text-align:left;color:#e5e7eb;">Area</th>
+    <th style="text-align:right;color:#e5e7eb;">Focus Level</th>
+    <th style="text-align:left;color:#e5e7eb;">Notes</th>
+  </tr>
+  <tr>
+    <td style="color:#d1d5db;">Frontend</td>
+    <td style="text-align:right;">🔥🔥🔥</td>
+    <td style="color:#9ca3af;">React / Next.js · Modern, clean UI & UX</td>
+  </tr>
+  <tr>
+    <td style="color:#d1d5db;">Backend & APIs</td>
+    <td style="text-align:right;">🔥🔥</td>
+    <td style="color:#9ca3af;">REST APIs · Auth · Clear and scalable logic</td>
+  </tr>
+  <tr>
+    <td style="color:#d1d5db;">Databases</td>
+    <td style="text-align:right;">🔥🔥</td>
+    <td style="color:#9ca3af;">MongoDB / SQL · Solid schema & relationships</td>
+  </tr>
+  <tr>
+    <td style="color:#d1d5db;">DevOps & Tools</td>
+    <td style="text-align:right;">🔥</td>
+    <td style="color:#9ca3af;">Git · GitHub · Docker · Basic CI/CD pipelines</td>
+  </tr>
+  <tr>
+    <td style="color:#d1d5db;">AI & Automation</td>
+    <td style="text-align:right;">🔥🔥</td>
+    <td style="color:#9ca3af;">Integrating AI services & automation into apps</td>
+  </tr>
+</table>
 
 ---
 
@@ -121,7 +153,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,100:1e293b" width="100%" />
 </p>
 
-<p align="center">
+<p align="center" style="color:#9ca3af;">
   Made with ♥️ , focus, and a lot of coffee.<br/>
   <i>"If you can imagine it, you can architect it. If you can architect it, you can ship it."</i>
 </p>
+
+  </div>
+</div>
