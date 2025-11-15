@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=OsAimAi%20Space&fontAlign=50&fontAlignY=35&color=0:0f172a,100:1e293b&fontColor=00f7ff&desc=Clean%20Code%20.%20Sharp%20Vision%20.%20Big%20Dreams&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Osama%20Lami&fontSize=40&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlign=50&descAlignY=60&color=0:0f172a,100:1e293b&fontColor=00f7ff" width="100%" />
 
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+OsAimAi's+Universe;Software+Developer+%7C+AI+%26+Automation;Code+.+Discipline+.+Ambition" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+Osama+Lami's+Universe;Full+Stack+Developer+%7C+AI+%26+Automation;Clean+Code+.+Discipline+.+Ambition" />
 </p>
 
-<h1 align="center">✨ Osama • OsAimAi ✨</h1>
+<h1 align="center">✨ OsAmA • LaM! ✨</h1>
 
 <p align="center">
-  <b>Software Developer</b> · <b>AI & Automation Enthusiast</b> · <b>Web & Backend Engineering</b>
+  <b>Full Stack Developer</b> · <b>AI & Automation Enthusiast</b> · <b>Web & Backend Engineering</b>
 </p>
 
 <p align="center">
@@ -19,11 +19,11 @@
 
 ## 🧭 Who I Am
 
-- 💼 Software & web developer يحب بناء أنظمة أنيقة وواضحة  
-- 🤖 مهتم بالذكاء الاصطناعي، الأتمتة، والـ backend logic القوي  
-- 🧱 أحب تحويل الأفكار إلى أنظمة حقيقية، منظمة، سهلة التطوير والتوسّع  
-- 🧠 مهووس بالتفاصيل، الأداء، وتجربة المستخدم النظيفة  
-- 🌍 أعمل بعقلية: *فكر عالميًا، نفّذ بسرعة، وطوّر باستمرار*
+- 💼 Full stack developer who loves building clean, reliable systems  
+- 🤖 Passionate about AI, automation, and strong backend logic  
+- 🧱 I enjoy turning ideas into real, structured, maintainable products  
+- 🧠 Obsessed with details, performance, and smooth user experience  
+- 🌍 Mindset: *Think global, ship fast, improve continuously*
 
 > _"Code like an engineer, think like a designer, move like a founder."_
 
@@ -67,13 +67,13 @@
 
 ## 📡 Tech Radar
 
-| Area            | Focus Level | Notes                                                |
-|-----------------|------------:|------------------------------------------------------|
-| Frontend        | 🔥🔥🔥       | React / Next.js • نظافة واجهات وتجربة مستخدم سلسة   |
-| Backend & APIs  | 🔥🔥         | REST APIs • Auth • Logic نظيف ومنظم                 |
-| Databases       | 🔥🔥         | MongoDB / SQL • تصميم جداول وعلاقات واضحة           |
-| DevOps & Tools  | 🔥           | Git • GitHub • Docker • Basic CI/CD                  |
-| AI & Automation | 🔥🔥         | دمج الذكاء الاصطناعي والأتمتة في المشاريع            |
+| Area            | Focus Level | Notes                                             |
+|-----------------|------------:|---------------------------------------------------|
+| Frontend        | 🔥🔥🔥       | React / Next.js • Modern, clean UI & UX          |
+| Backend & APIs  | 🔥🔥         | REST APIs • Auth • Clear and scalable logic      |
+| Databases       | 🔥🔥         | MongoDB / SQL • Solid schema & relationships     |
+| DevOps & Tools  | 🔥           | Git • GitHub • Docker • Basic CI/CD pipelines    |
+| AI & Automation | 🔥🔥         | Integrating AI services & automation into apps   |
 
 ---
 
@@ -122,6 +122,6 @@
 </p>
 
 <p align="center">
-  Made with ❤️, focus, and a lot of coffee.<br/>
+  Made with ♥️ , focus, and a lot of coffee.<br/>
   <i>"If you can imagine it, you can architect it. If you can architect it, you can ship it."</i>
 </p>
